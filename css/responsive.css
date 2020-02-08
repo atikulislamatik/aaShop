@@ -1,0 +1,284 @@
+@media only screen and (min-width: 1200px) {
+	.slicknav_menu {
+		display: none;
+	}
+	
+}
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+	.container {
+		width: 970px;
+	}
+	.item-tittle a {
+		font-size: 16px;
+	}
+	.slicknav_menu {
+		display: none;
+	}
+	.news-img {
+		height: 237px;
+	}
+	.subs-right input[type="email"] {
+		width: 350px;
+	}
+	.box-btn {
+		padding: 12px 11px;
+	}
+	.single-featured-product:nth-child(4) {
+		display: none;
+	}
+	.subs-left p {
+		font-size: 16px;
+	}
+	.fa.fa-user,
+	.fa.fa-comments {
+		font-size: 14px;
+	}
+	.top-brand-area {
+		margin-bottom: 25px;
+	}
+	.col-md-4.col-xl-3.col-12.a,
+	.col-md-4.col-xl-3.col-12.aa {
+		display: none;
+	}
+	.col-12.col-xl-3.col-md-3a {
+    display: none;
+}
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.container {
+		width: 750px;
+	}
+	.news-img {
+		height: 185px;
+	}
+	ul.news-meta {
+		margin-top: 0px;
+	}
+	.fa.fa-user,
+	.fa.fa-comments {
+		font-size: 12px;
+	}
+	.news-meta li {
+		margin-right: 3px;
+	}
+	.news-info h3 a {
+		font-size: 23px;
+		line-height: 1.0em;
+	}
+	.news-info p {
+		font-size: 13px;
+	}
+	.subs-right input[type="email"] {
+		width: 256px;
+	}
+	.box-btn {
+		padding: 12px 8px;
+	}
+	.about-icon i {
+		margin-left: 3px;
+	}
+	.col-9.about-info {
+		padding: 0px;
+	}
+	.owl-dots {
+		bottom: 150px;
+	}
+	.top-brand-area {
+		margin-bottom: 25px;
+	}
+	.quick-link {
+		margin-left: 30px;
+	}
+	.col-md-4.col-xl-3.col-12.a,
+	.col-md-4.col-xl-3.col-12.aa {
+		display: none;
+	}
+	.col-2.col-xl-2.col-md-2 {
+		margin-left: -35px;
+	}
+	.slicknav_menu {
+		display: none;
+	}
+	.menu {
+		text-align: center;
+		float: left;
+	}
+	.hellop {
+		width: 82%;
+	}
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+	.container {
+		width: 320px;
+	}
+	.header-info,
+	.f-right {
+		display: none;
+	}
+	.single-featured-product {}
+	.item-tittle a {
+		font-size: 15px;
+	}
+	.item-price p {
+		font-size: 17px;
+		padding: 10px 0;
+	}
+	.product-details {
+		padding-top: 0px;
+	}
+	.speed i {
+		margin-bottom: 0px;
+	}
+	.single-about {
+		margin-bottom: 15px;
+	}
+	.single-latest-news {
+		margin-right: 0px;
+	}
+	.news-img h3 {
+		padding: 0;
+	}
+	ul.news-meta {
+		margin-top: -18px;
+	}
+	.top-brand-area {
+		margin-bottom: 30px;
+	}
+	.subs-left {
+		padding-top: 50px;
+		padding-bottom: 10px;
+		text-align: center;
+	}
+	.subs-right {
+		padding-top: 0px;
+		padding-bottom: 10px;
+		text-align: center;
+	}
+	.subs-left h3 {
+		font-size: 20px;
+		text-align: center;
+	}
+	.subs-right input[type="email"] {
+		height: 45px;
+		width: 200px;
+	}
+	.box-btn {
+		;
+		padding: 8px 16px;
+		font-weight: 500;
+	}
+	.quick-link {
+		margin-left: 17px;
+	}
+	.footer-txt {
+		display: none;
+	}
+	.col-2.col-xl-2.col-md-2.aa {
+		display: none;
+	}
+	.footer-social .fab {
+		padding: 10px;
+		font-size: 20px;
+		width: 45px;
+	}
+	.footer-social {
+	}
+	.banner-text.center {
+		padding: 150px 0 0px 0;
+	}
+	.product-details h3 {
+		font-size: 30px;
+	}
+	.product-price {
+		line-height: 35px;
+		position: relative;
+		display: inline-block;
+	}
+	p.main-price {
+		font-size: 17px;
+	}
+	.input-groups i.fas.fa-plus {
+		right: 7.7%;
+		/* background: #df4243; */
+		padding: 16.3px 8px;
+	}
+	.heading {
+		font-size: 15px;
+	}
+	.fa.fa-star.checked,
+	.fa.fa-star {
+		font-size: 13px;
+	}
+	.coustomer-review-details-img img {
+		height: 30px;
+	}
+	.banner-text h2 {
+		font-size: 49px;
+		margin-bottom: 15px;
+	}
+	.banner-text.center {
+		padding: 150px 0 24px 0;
+	}
+	nav {
+		display: none;
+	}
+	.banner-text.center {
+		padding: 60px 0 24px 0;
+	}
+	.banner-text h2 {
+		font-size: 35px;
+		margin-bottom: 0px;
+	}
+	.banner-text p {
+		text-align: center;
+		font-size: 16px;
+	}
+	.owl-dots {
+		bottom: 175px;
+	}
+	.banner-area {
+		padding-top: 23px;
+	}
+	.about-area {
+		letter-spacing: 1px;
+		margin-top: -100px;
+	}
+	.slicknav_menu {
+		position: fixed;
+		width: 100%;
+		z-index: 1000000;
+	}
+	.side-bar-area {
+display: none;
+}
+
+.single-latest-product, .single-featured-product {
+
+    box-shadow: 0px 0px 0px 0 
+    rgba(76, 110, 245, .2);
+}
+.news-info {
+    padding-top: 35px;
+}
+.featured-hover-eff {
+    right: -1%;
+}
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
